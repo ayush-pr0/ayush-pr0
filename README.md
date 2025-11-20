@@ -57,5 +57,10 @@
 ---
 
 ## 🌐 Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush-blue?style=for-the-badge&logo=linkedin)]()  
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)]()  
+<a href="https://www.linkedin.com/in/ayush-khandelwal-in/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Ayush-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<br/>
+<a href="mailto:ayushkhandelwal9083@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
